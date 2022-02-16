@@ -1,0 +1,4 @@
+name: ApollyonBoss
+version: ${project.version}
+main: apollyon.apollyon.Apollyon
+api-version: 1.16
